@@ -1,1 +1,3 @@
 # AutoReporcr
+
+cd autoreporcr
